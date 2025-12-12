@@ -1,6 +1,6 @@
 # Uniform-placement-of-planes-in-a-cube-on-Babylon.js
 
-Сетка плоскостей сверху-вниз.
+Сетка плоскостей сверху-вниз равномерно расположенные друг от друга.
 
 [Uniform placement of planes in a cube (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#DY93OO#1)
 
